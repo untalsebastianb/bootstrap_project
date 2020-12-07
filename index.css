@@ -1,3 +1,16 @@
+/* Header styles */
+.text-platzi {
+  color: #7953B2 !important;
+}
+
+#header img {
+  width: 40px;
+  height: 40px;
+}
+
+
+
+/* Footer styles */
 #footer {
   background-color: #273D49;
 }
