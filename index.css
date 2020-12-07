@@ -3,6 +3,17 @@
   color: #7953B2 !important;
 }
 
+/* Button styles */
+.row .btn-platzi {
+  background-color: #7953B2;
+  color: white ;
+}
+
+.row .btn-platzi:hover {
+  background-color: #5c3a90;
+  color: white;
+}
+
 #header img {
   width: 40px;
   height: 40px;
@@ -34,6 +45,8 @@
 #carousel .overlay .row{
   height: 100%;
 }
+
+
 /* Footer styles */
 #footer {
   background-color: #273D49;
