@@ -4,6 +4,11 @@
 }
 
 /* Button styles */
+.modal .btn-platzi {
+  background-color: #7953B2;
+  color: white ;
+}
+
 .row .btn-platzi {
   background-color: #7953B2;
   color: white ;
